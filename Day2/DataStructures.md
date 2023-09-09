@@ -90,3 +90,11 @@
 1. error -> any state which one cant have normal flow of code
 2. exception -> is report of error
 3. exception handling -> trying to continue either alternate or normal flow of code in presence of error
+
+## Handling [4 BLOCKS]
+1. try: code that can cause error
+2. except: code to report handle error
+3. else: code that will run iff no error
+4. finally: code that will run in any situation
+5. try & except must block
+6. else: finally: optional
