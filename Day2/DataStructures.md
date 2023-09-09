@@ -13,7 +13,7 @@
 
 1. list [duplicate,index access, dynamic]
 2. tuple (duplicate, index access, static)
-3. set {no dulicate, no index access, dynamic}
+3. set {no duplicate, no index access, dynamic}
 4. dictionary {key based (key: no duplicate, value: duplicate)}
 
 ## When to use
